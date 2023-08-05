@@ -165,11 +165,14 @@ Quadro de código
 ```
 ____________________________________________
 ### Tabelas
-| Coluna1 | Coluna2 | Coluna3 | Coluna4 |
+```
+| Sem marcador | Alinhado à esquerda | Centralizado | Alinhado à direita |
 |---|:---|:---:|---:|
-| Tab | Tab | Tab | Tab |
-| Tab | Tab |   |   |
-|   |   |   |   |
+| exemplo | exemplo | exemplo | exemplo |
+```
+| Sem marcador | Alinhado à esquerda | Centralizado | Alinhado à direita |
+|---|:---|:---:|---:|
+| exemplo | exemplo | exemplo | exemplo |
 
 Alinhamento:  
 Esquerda: `|---|:---|`  
@@ -179,5 +182,33 @@ Direita: `|---:|`
 
 O site [tablesgenerator](https://www.tablesgenerator.com/markdown_tables) cria para você a estrura da tabela para não ser necessário digitar todos os caracteres.
 Como usar:
+
+### 🔷Caracteres🔷
+
+Para usar caracteres que tem alguma função:
+```
+**Caractere**
+\**Caractere\**
+\*\*Caractere\*\*
+
+
+```
+**Caractere**  
+\**Caractere\**  
+\*\*Caractere\*\*
+
+Emojis
+- windows + .
+ou:
+```
+:shield:
+:computer:
+:hourglass:
+```
+:shield:  
+:computer:  
+:hourglass:
+
+[Lista com vários emojis](https://github.com/ikatyang/emoji-cheat-sheet)
 ```
 ```
