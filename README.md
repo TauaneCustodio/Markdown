@@ -1,6 +1,6 @@
 # ⬇️Markdown⬇️
 ### 📑Conteúdos neste repositório:
-1. [Guia_Markdown](C:\Users\tauane\Desktop\Markdown\Guia_Markdown.md): exemplos de códigos e aplicação
+1. [Guia_Markdown](Guia_Markdown.md): exemplos de códigos e aplicação
 2. [Resumo](Resumo.md): forma simplificada do Guia para consultas rápidas, sem exemplos
 3. [Curiosidades](Curiosidades.md): a história do markdown, alguns fatos interresantes e anotações pessoais
 ***
