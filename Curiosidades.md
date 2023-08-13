@@ -10,8 +10,9 @@ Você pode escrever Markdown em qualquer arquivo de texto, e depois colar em alg
 4. Linux: [ReText](https://github.com/retext-project/retext) ou [ghostwriter](https://kde.github.io/ghostwriter/)
 5. Web: [Dillinger]https://www.markdownguide.org/tools/dillinger/ ou [StackEdit](https://www.markdownguide.org/tools/stackedit/)
 6. iOS/Android/Mac/Windows/Web: [Notion](https://www.notion.so/pt-br)
-7. iOS/Android/Mac/Windows/Linux: [Obsidian](https://obsidian.md/download)
-Vocês podem encontrar muito mais exemplos no [Markdownguide](https://www.markdownguide.org/getting-started/)
+7. iOS/Android/Mac/Windows/Linux: [Obsidian](https://obsidian.md/download)  
+
+Vocês podem encontrar muito mais exemplos no [Markdownguide](https://www.markdownguide.org/getting-started/), em um post no [Frugal Guidance 2](https://andybrandt531.com/2015/03/markdown-for-bloggers-part-6-monster-list-of-markdown-tools/) e o [Awesome Markdown](https://github.com/webiaio/awesome-markdown.git) lista tanto ferramentas como plugins.
 
 - Eu, por exemplo estou usando o **_Visual Studio Code_** para escrever e a extensão **_Markdown Preview Github Styling_** para a visualização imediata
 ### ⁉️Porque usar o Markdown?
