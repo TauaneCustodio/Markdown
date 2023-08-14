@@ -1,4 +1,17 @@
 ## Índice
+- [Formatações básicas: itálico, negrito, riscado](#🔷formatações-básicas🔷)
+- [Listas: numérica, com marcadores, de seleção](#🔷listas🔷)
+- [Citações](#🔹citações🔹)
+- [Títulos](#🔷títulos🔷)
+- [Divisores](#🔷divisores🔷)
+- [Imagens](#🔷imagens🔷)
+- [Links](#🔷links🔷)
+- [Escrever códigos](#🔷códigos🔷)
+- [Tabelas](#🔷tabelas🔷)
+- [Escrever caracteres especiais](#🔷caracteres🔷)
+- [Caracteres matemáticos](#🔷caracteres-matemáticos🔷)
+- [Criar índice](#🔷índice🔷)
+
 ### 🔷Formatações básicas🔷
 #### 🔹Itálico🔹
 ```
@@ -162,9 +175,20 @@ ____________________________________________
 ```
 ```
 Quadro de código
+```  
+Para escrever quadros de códigos de uma linguagem específica basta colocar o nome depois do ```  
+```
+
+    ```html
+    <h2> Quadro de código </h2>
+    ```
+```
+
+```html
+<h2> Quadro de código </h2>
 ```
 ____________________________________________
-### Tabelas
+### 🔷Tabelas🔷
 ```
 | Sem marcador | Alinhado à esquerda | Centralizado | Alinhado à direita |
 |---|:---|:---:|---:|
@@ -179,20 +203,21 @@ Esquerda: `|---|:---|`
 Centro: `|:---:|`  
 Direita: `|---:|`
 
+*Colocar nas estremidades "|" é opcional 
 
 O site [tablesgenerator](https://www.tablesgenerator.com/markdown_tables) cria para você a estrura da tabela para não ser necessário digitar todos os caracteres.
 Como usar:
 
 ### 🔷Caracteres🔷
 
-Para usar caracteres que tem alguma função:
+Para usar caracteres que tem alguma função:    
+
 ```
 **Caractere**
 \**Caractere\**
 \*\*Caractere\*\*
+```  
 
-
-```
 **Caractere**  
 \**Caractere\**  
 \*\*Caractere\*\*
@@ -210,5 +235,30 @@ ou:
 :hourglass:
 
 [Lista com vários emojis](https://github.com/ikatyang/emoji-cheat-sheet)
+
+### 🔷Caracteres matemáticos🔷 
+
 ```
+Area of a circle is $\pi r^2$
+
+And, the area of a triangle is:
+
+$$
+A_{triangle}=\frac{1}{2}({b}\cdot{h})
+$$
 ```
+
+Area of a circle is $\pi r^2$
+
+And, the area of a triangle is:
+
+$$
+A_{triangle}=\frac{1}{2}({b}\cdot{h})
+$$
+[Fonte](https://learn.microsoft.com/pt-br/azure/devops/project/wiki/markdown-guidance?view=azure-devops&WT.mc_id=blog-devto-ludossan)  
+
+### 🔷Índice🔷
+```
+[Listas](#🔷listas🔷)
+```
+[Listas](#🔷listas🔷)
